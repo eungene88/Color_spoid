@@ -1,0 +1,16 @@
+D:\97.소스2\color_spoid\color_spoid\bin\Debug\color_spoid.exe
+D:\97.소스2\color_spoid\color_spoid\bin\Debug\color_spoid.pdb
+D:\97.소스2\color_spoid\color_spoid\obj\Debug\ResolveAssemblyReference.cache
+D:\97.소스2\color_spoid\color_spoid\obj\Debug\color_spoid.Form1.resources
+D:\97.소스2\color_spoid\color_spoid\obj\Debug\color_spoid.Properties.Resources.resources
+D:\97.소스2\color_spoid\color_spoid\obj\Debug\color_spoid.csproj.GenerateResource.Cache
+D:\97.소스2\color_spoid\color_spoid\obj\Debug\color_spoid.exe
+D:\97.소스2\color_spoid\color_spoid\obj\Debug\color_spoid.pdb
+C:\projects\color_spoid\color_spoid\obj\Debug\color_spoid.exe
+C:\projects\color_spoid\color_spoid\obj\Debug\color_spoid.pdb
+C:\projects\color_spoid\color_spoid\bin\Debug\color_spoid.exe
+C:\projects\color_spoid\color_spoid\bin\Debug\color_spoid.pdb
+C:\projects\color_spoid\color_spoid\obj\Debug\color_spoid.csprojResolveAssemblyReference.cache
+C:\projects\color_spoid\color_spoid\obj\Debug\color_spoid.Form1.resources
+C:\projects\color_spoid\color_spoid\obj\Debug\color_spoid.Properties.Resources.resources
+C:\projects\color_spoid\color_spoid\obj\Debug\color_spoid.csproj.GenerateResource.Cache
